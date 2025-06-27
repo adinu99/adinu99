@@ -38,10 +38,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adinuwiranugraha99@gmail.com)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/images/marquee.gif" width="100%"/>
-</p>
-
 <p align="center">“Stay hungry, stay foolish.” – Steve Jobs</p>
 
 
