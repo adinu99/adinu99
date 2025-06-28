@@ -5,7 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+the+future+with+code.;Learning+Full+Stack+Web+Development.;Let%27s+connect!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-![Mai-san](https://i.pinimg.com/originals/1c/5d/62/1c5d62f11685ad7f705a4b5901757373.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1c/5d/62/1c5d62f11685ad7f705a4b5901757373.gif" alt="Mai-san" width="400" />
+</p>
+
 
 ---
 
