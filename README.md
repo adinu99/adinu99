@@ -4,32 +4,28 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/adinu99">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://codeforces.com/profile/adinu99">
-    <img src="https://img.shields.io/badge/Codeforces-1A1A1A?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-2B2B2B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://codechef.com/users/adinu99">
-    <img src="https://img.shields.io/badge/CodeChef-1A1A1A?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-2B2B2B?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
   <a href="https://pinterest.com/adinu99">
-    <img src="https://img.shields.io/badge/Pinterest-1A1A1A?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest" />
+    <img src="https://img.shields.io/badge/Pinterest-2B2B2B?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
   </a>
   <a href="https://chess.com/member/adinu99">
-    <img src="https://img.shields.io/badge/Chess.com-1A1A1A?style=flat-square&logo=chess.com&logoColor=white" alt="Chess.com" />
+    <img src="https://img.shields.io/badge/Chess.com-2B2B2B?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com" />
   </a>
 </p>
 
-<table align="center" cellpadding="6" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/github/followers/adinu99?style=flat-square&color=2B2B2B&labelColor=1A1A1A&logo=github&logoColor=white&label=Followers" alt="Followers" />
-    </td>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=adinu99&color=2b2b2b&style=flat-square&label=Views" alt="Views" />
-    </td>
-  </tr>
-</table>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/adinu99?style=for-the-badge&color=2B2B2B&labelColor=1A1A1A&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=adinu99&color=2b2b2b&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
+</p>
 
 <br>
 
