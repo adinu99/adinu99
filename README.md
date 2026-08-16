@@ -92,20 +92,12 @@ I'm a Systems Engineering student who enjoys turning half-formed ideas into work
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adinu99&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=adinu99&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adinu99&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10&row=2" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adinu99&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10&row=2" width="100%" />
 </p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adinu99/adinu99/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
-</p>
-
-> ⚙️ Animasi ular ini butuh setup sekali via GitHub Actions di repo `adinu99/adinu99`. Beri tahu aku kalau mau, aku buatkan file workflow-nya sekalian.
 
 ### 📌 Pinned Repositories
 
