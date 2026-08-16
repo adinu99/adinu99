@@ -4,10 +4,7 @@
 
 <br>
 
-<p align="center">
-  <img src="./followers-badge.svg" alt="Followers" />
-  <img src="./views-badge.svg" alt="Views" />
-</p>
+
 
 <br>
 
