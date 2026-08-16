@@ -1,44 +1,251 @@
-<h1 align="center">Hi 👋, I'm Adinu Wira Nugraha</h1>
-<h3 align="center">🌐 17 y.o Vocational Student (TKJ) & Digital Artist</h3>
+````md
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+the+future+with+code.;Learning+Full+Stack+Web+Development.;Digital+Artist+&+Student." alt="Typing SVG" />
-</p>
+# `ADINU WIRA NUGRAHA`
 
----
+### `Full Stack Web Developer in Progress`
 
-### 🧠 About Me
-- 🔭 Currently a student at **SMK Negeri 1 Blitar** (Teknik Komputer dan Jaringan)
-- 🎨 Passionate about **Digital Illustration** (Ibis Paint X / Krita) and **Graphic Design**
-- 💻 Exploring **Web Development** and **Network Engineering**
-- 🎯 Goal: Become a professional developer and designer
-- 🇯🇵 Learning Japanese (JLPT N5 path)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+the+future+with+code.;Learning+Full+Stack+Web+Development.;Turning+ideas+into+useful+things.;Always+learning.+Always+building." />
 
----
+<br>
 
-### 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=CODE%20%2F%20CREATE%20%2F%20LEARN&fontColor=FFFFFF&fontSize=22&fontAlignY=65&animation=fadeIn" width="100%" />
 
-#### Frontend & Design
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-
-#### Networking & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Stats
-![Adinu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adinu99&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+
+## `⌁ ABOUT ME`
+
+</div>
+
+<table>
+<tr>
+<td width="65%">
+
+```text
+Hello! I'm Adinu Wira Nugraha.
+
+I'm a 16 y.o. developer currently learning
+Full Stack Web Development.
+
+I enjoy:
+→ Building useful web applications
+→ Exploring new technologies
+→ Solving problems with code
+→ Designing clean interfaces
+→ Learning by creating real projects
+
+My current mission:
+Become a highly capable Full Stack Developer
+by continuously building, experimenting,
+and improving every day.
+````
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `CURRENT FOCUS`
+
+`FULL STACK DEVELOPMENT` • `WEB APPLICATIONS` • `UI/UX` • `PROBLEM SOLVING`
+
+</div>
 
 ---
 
-### 📫 Let's Connect
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adinuwiranugraha99@gmail.com)
+<div align="center">
+
+## `⌘ TECHNOLOGIES`
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+
+</td>
+
+<td align="center">
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### CURRENTLY LEARNING
+
+<img src="https://skillicons.dev/icons?i=js,nodejs" />
+
+</td>
+
+<td align="center">
+
+### EXPLORING
+
+<img src="https://skillicons.dev/icons?i=react,mysql" />
+
+</td>
+</tr>
+</table>
 
 ---
-<p align="center">“Stay hungry, stay foolish.” – Steve Jobs</p>
+
+<div align="center">
+
+## `⌁ GITHUB STATISTICS`
+
+<br>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=adinu99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF"
+height="170"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinu99&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"
+height="170"
+/>
+
+<br><br>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=adinu99&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+width="70%"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `⌁ CONTRIBUTION GRAPH`
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=adinu99&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"
+width="100%"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `⌁ PROJECT MINDSET`
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### `01`
+
+**LEARN**
+
+Learn the fundamentals.
+
+</td>
+
+<td align="center" width="25%">
+
+### `02`
+
+**BUILD**
+
+Turn knowledge into projects.
+
+</td>
+
+<td align="center" width="25%">
+
+### `03`
+
+**BREAK**
+
+Find problems and fix them.
+
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+
+**IMPROVE**
+
+Repeat. Every day.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `⌁ CONNECT`
+
+<a href="mailto:adinuwiranugraha99@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D1117&color=FFFFFF" />
+</a>
+
+<a href="https://github.com/adinu99">
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117&color=FFFFFF" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+"Building today what I want to understand tomorrow."
+```
+
+### `— ADINU WIRA NUGRAHA`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
+
+</div>
+
+<!--
+============================================================
+                    ADINU99 GITHUB PROFILE
+============================================================
+
+Name       : Adinu Wira Nugraha
+Age        : 16
+Focus      : Full Stack Web Development
+Goal       : Become a highly capable Full Stack Developer
+
+============================================================
+-->
+
+```
+```
