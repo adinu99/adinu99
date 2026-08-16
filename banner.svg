@@ -1,65 +1,165 @@
 <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#050505"/>
-      <stop offset="55%" stop-color="#141414"/>
-      <stop offset="100%" stop-color="#232323"/>
+      <stop offset="0%" stop-color="#d4d4d4"/>
+      <stop offset="45%" stop-color="#e6e6e6"/>
+      <stop offset="100%" stop-color="#f2f2f2"/>
     </linearGradient>
-    <linearGradient id="mtnBack" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#1c1c1c"/>
-      <stop offset="100%" stop-color="#141414"/>
+    <linearGradient id="fujiLit" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#787878"/>
+      <stop offset="50%" stop-color="#6a6a6a"/>
+      <stop offset="100%" stop-color="#4c4c4c"/>
     </linearGradient>
-    <linearGradient id="mtnMid" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#2a2a2a"/>
-      <stop offset="100%" stop-color="#181818"/>
+    <linearGradient id="fujiShade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#565656"/>
+      <stop offset="100%" stop-color="#3a3a3a"/>
     </linearGradient>
-    <linearGradient id="mtnFront" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#3a3a3a"/>
-      <stop offset="100%" stop-color="#0d0d0d"/>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#cfcfcf"/>
+      <stop offset="100%" stop-color="#e8e8e8"/>
     </linearGradient>
-    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
-      <stop offset="60%" stop-color="#ffffff" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    <linearGradient id="fadeOut" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e8e8e8" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#e8e8e8" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5f5f5" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#f5f5f5" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="woodGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#242424"/>
+      <stop offset="100%" stop-color="#101010"/>
+    </linearGradient>
+    <filter id="soften" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <radialGradient id="vignette" cx="50%" cy="45%" r="75%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.12"/>
     </radialGradient>
   </defs>
 
+  <!-- sky -->
   <rect width="1200" height="300" fill="url(#sky)"/>
 
-  <!-- stars -->
-  <g fill="#ffffff">
-    <circle cx="80" cy="40" r="1.4" opacity="0.8"/>
-    <circle cx="160" cy="70" r="1" opacity="0.5"/>
-    <circle cx="260" cy="30" r="1.2" opacity="0.7"/>
-    <circle cx="340" cy="60" r="1" opacity="0.4"/>
-    <circle cx="420" cy="25" r="1.4" opacity="0.8"/>
-    <circle cx="520" cy="55" r="1" opacity="0.5"/>
-    <circle cx="640" cy="35" r="1.2" opacity="0.6"/>
-    <circle cx="760" cy="65" r="1" opacity="0.4"/>
-    <circle cx="880" cy="30" r="1.4" opacity="0.8"/>
-    <circle cx="980" cy="60" r="1" opacity="0.5"/>
-    <circle cx="1080" cy="25" r="1.2" opacity="0.7"/>
-    <circle cx="1140" cy="55" r="1" opacity="0.5"/>
-    <circle cx="1180" cy="90" r="1" opacity="0.4"/>
-    <circle cx="40" cy="100" r="1" opacity="0.4"/>
+  <!-- soft blurred clouds -->
+  <g fill="#ffffff" opacity="0.55" filter="url(#soften)">
+    <ellipse cx="110" cy="42" rx="100" ry="14"/>
+    <ellipse cx="230" cy="55" rx="60" ry="9"/>
+    <ellipse cx="960" cy="30" rx="130" ry="12"/>
+    <ellipse cx="1090" cy="58" rx="80" ry="10"/>
   </g>
 
-  <!-- moon -->
-  <circle cx="990" cy="70" r="70" fill="url(#moonGlow)"/>
-  <circle cx="990" cy="70" r="26" fill="#f2f2f2"/>
-  <circle cx="998" cy="62" r="5" fill="#d8d8d8" opacity="0.6"/>
-  <circle cx="982" cy="78" r="3.5" fill="#d8d8d8" opacity="0.5"/>
+  <!-- birds, subtle atmosphere detail -->
+  <g stroke="#7a7a7a" stroke-width="1.6" fill="none" opacity="0.7">
+    <path d="M150,95 q6,-7 12,0 q6,-7 12,0"/>
+    <path d="M180,110 q5,-6 10,0 q5,-6 10,0"/>
+    <path d="M1010,95 q6,-7 12,0 q6,-7 12,0"/>
+  </g>
 
-  <!-- back mountains -->
-  <path d="M0,190 L120,120 L230,175 L340,110 L470,185 L600,130 L720,190 L860,125 L980,180 L1100,140 L1200,185 L1200,300 L0,300 Z" fill="url(#mtnBack)"/>
+  <!-- distant hazy mountain ridge -->
+  <path d="M0,168 Q100,150 220,164 T460,158 T700,166 T940,156 T1200,164 L1200,192 L0,192 Z" fill="#b4b4b4" opacity="0.55"/>
 
-  <!-- mid mountains -->
-  <path d="M0,230 L150,160 L280,215 L400,150 L540,220 L680,165 L810,225 L950,170 L1080,220 L1200,190 L1200,300 L0,300 Z" fill="url(#mtnMid)"/>
+  <!-- near tree-covered hills silhouette, layered -->
+  <path d="M0,178 Q90,164 200,176 T420,170 T640,178 T860,168 T1080,176 T1200,170 L1200,196 L0,196 Z" fill="#8f8f8f" opacity="0.5"/>
 
-  <!-- front mountains -->
-  <path d="M0,270 L100,215 L220,260 L360,200 L500,265 L650,210 L800,270 L950,225 L1080,265 L1200,235 L1200,300 L0,300 Z" fill="url(#mtnFront)"/>
+  <!-- Mount Fuji, two-tone faceted shading -->
+  <path d="M600,58 L735,192 L600,192 Z" fill="url(#fujiShade)"/>
+  <path d="M600,58 L465,192 L600,192 Z" fill="url(#fujiLit)"/>
+  <!-- subtle rock ridges on the slope -->
+  <g stroke="#2f2f2f" stroke-width="1.5" opacity="0.35" fill="none">
+    <path d="M545,128 L560,150 L548,168"/>
+    <path d="M660,128 L648,150 L662,170"/>
+    <path d="M600,90 L600,192"/>
+  </g>
+  <!-- snow cap, jagged -->
+  <path d="M600,58 L568,98 L580,96 L592,112 L600,96 L610,114 L622,96 L634,100 Z" fill="#f4f4f4"/>
+  <path d="M600,58 L622,96 L634,100 L646,90 L634,110 L618,98 L600,110 Z" fill="#e2e2e2"/>
 
-  <!-- title -->
-  <text x="600" y="150" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="34" fill="#ffffff" font-weight="600">Welcome to Adinu's GitHub</text>
-  <text x="600" y="180" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#b3b3b3">&lt;/&gt;</text>
+  <!-- mist band at mountain base -->
+  <rect x="0" y="150" width="1200" height="45" fill="url(#mist)"/>
+
+  <!-- shoreline tree line, in front of Fuji -->
+  <path d="M0,190 Q100,176 220,188 T440,182 T660,190 T880,182 T1100,190 L1200,186 L1200,206 L0,206 Z" fill="#2e2e2e"/>
+  <g fill="#242424" opacity="0.8">
+    <ellipse cx="90" cy="182" rx="18" ry="10"/>
+    <ellipse cx="260" cy="180" rx="22" ry="11"/>
+    <ellipse cx="980" cy="178" rx="24" ry="11"/>
+    <ellipse cx="1130" cy="182" rx="18" ry="9"/>
+  </g>
+
+  <!-- water -->
+  <rect x="0" y="192" width="1200" height="108" fill="url(#water)"/>
+
+  <!-- water ripple lines, varied -->
+  <g stroke="#c2c2c2" stroke-width="1" opacity="0.55" fill="none">
+    <path d="M0,215 Q150,212 300,215 T600,215 T900,215 T1200,215"/>
+    <path d="M0,235 Q150,231 300,235 T600,235 T900,235 T1200,235"/>
+    <path d="M0,258 Q150,254 300,258 T600,258 T900,258 T1200,258"/>
+    <path d="M0,280 Q150,276 300,280 T600,280 T900,280 T1200,280"/>
+  </g>
+
+  <!-- rock island, more organic and detailed -->
+  <path d="M495,236 L515,222 L555,218 L610,216 L662,219 L705,225 L724,238 L722,252 L705,262 L520,264 L500,254 Z" fill="#252525"/>
+  <g fill="#1c1c1c">
+    <ellipse cx="518" cy="247" rx="15" ry="8"/>
+    <ellipse cx="558" cy="255" rx="17" ry="9"/>
+    <ellipse cx="610" cy="257" rx="19" ry="9"/>
+    <ellipse cx="665" cy="253" rx="16" ry="8"/>
+    <ellipse cx="702" cy="244" rx="14" ry="7"/>
+  </g>
+  <g fill="#333333" opacity="0.6">
+    <ellipse cx="530" cy="228" rx="8" ry="4"/>
+    <ellipse cx="600" cy="223" rx="9" ry="4"/>
+    <ellipse cx="670" cy="228" rx="8" ry="4"/>
+  </g>
+  <!-- small stone steps -->
+  <g fill="#1c1c1c">
+    <rect x="592" y="200" width="16" height="6"/>
+    <rect x="588" y="207" width="24" height="6"/>
+    <rect x="583" y="214" width="34" height="6"/>
+  </g>
+
+  <!-- torii gate, detailed with tapered pillars and curved lintel -->
+  <g>
+    <!-- pillars, slightly tapered -->
+    <polygon points="553,150 565,150 566,230 552,230" fill="url(#woodGrad)"/>
+    <polygon points="653,150 665,150 666,230 652,230" fill="url(#woodGrad)"/>
+    <!-- base stones under pillars -->
+    <ellipse cx="559" cy="231" rx="10" ry="4" fill="#161616"/>
+    <ellipse cx="659" cy="231" rx="10" ry="4" fill="#161616"/>
+    <!-- lower tie beam -->
+    <rect x="548" y="168" width="122" height="7" fill="url(#woodGrad)"/>
+    <!-- plaque -->
+    <rect x="592" y="176" width="34" height="9" fill="#101010"/>
+    <rect x="596" y="178" width="26" height="5" fill="none" stroke="#3a3a3a" stroke-width="0.6"/>
+    <!-- kasagi (curved top lintel) with slight upward curve at ends -->
+    <path d="M535,152 Q610,138 685,152 L682,160 Q610,147 538,160 Z" fill="url(#woodGrad)"/>
+    <!-- shimaki (second lintel bar under kasagi) -->
+    <rect x="540,135" width="0" height="0" fill="none"/>
+    <path d="M542,161 L678,161 L678,169 L542,169 Z" fill="url(#woodGrad)"/>
+    <!-- end caps flare -->
+    <path d="M535,152 L522,158 L525,167 L538,160 Z" fill="url(#woodGrad)"/>
+    <path d="M685,152 L698,158 L695,167 L682,160 Z" fill="url(#woodGrad)"/>
+  </g>
+
+  <!-- reflection of torii + fuji, flipped and softened -->
+  <g transform="translate(0,460) scale(1,-1)" opacity="0.22" filter="url(#soften)">
+    <path d="M600,58 L735,192 L465,192 Z" fill="#5a5a5a"/>
+    <polygon points="553,150 565,150 566,230 552,230" fill="#161616"/>
+    <polygon points="653,150 665,150 666,230 652,230" fill="#161616"/>
+    <rect x="548" y="168" width="122" height="7" fill="#161616"/>
+    <path d="M535,152 Q610,138 685,152 L682,160 Q610,147 538,160 Z" fill="#161616"/>
+  </g>
+  <rect x="0" y="230" width="1200" height="70" fill="url(#fadeOut)"/>
+
+  <!-- vignette for photographic depth -->
+  <rect width="1200" height="300" fill="url(#vignette)"/>
+
+  <!-- soft backing for readability behind large centered title -->
+  <ellipse cx="600" cy="75" rx="340" ry="72" fill="#f2f2f2" opacity="0.6"/>
+
+  <!-- title text, centered -->
+  <text x="600" y="75" text-anchor="middle" font-family="Noto Serif CJK JP, serif" font-size="66" font-weight="700" fill="#181818">ようこそ</text>
+  <text x="600" y="108" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#3a3a3a" letter-spacing="1.5">Welcome to Adinu's GitHub</text>
 </svg>
