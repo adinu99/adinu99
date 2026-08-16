@@ -37,6 +37,14 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,r,java,cpp,ruby,react,angular,nodejs,bootstrap,git,postgres,mysql&perline=8&size=64" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717"/>
+  <img src="https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Debian-FFFFFF?style=for-the-badge&logo=debian&logoColor=A81D33"/>
+</p>
+
 <br>
 
 ## Statistics
