@@ -24,12 +24,34 @@
 
 ## 📌 About me
 
-Hello there! I'm **Adinu Wira Nugraha**, a Systems Engineering student. Right now I'm working on some little and fun projects to put into practice my knowledge about JavaScript, React, Bootstrap, and more.
+I'm a Systems Engineering student who enjoys turning half-formed ideas into working code — mostly with **JavaScript**, **React**, and **Bootstrap**. Outside of assignments, I like picking apart competitive programming problems and, occasionally, chess openings.
 
-- 🎓 Studying Systems Engineering
-- 🏆 Competitor in the ICPC (2025)
-- ♟️ Chess player
-- 🌱 Currently exploring new frameworks and problem solving
+<table align="center">
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>Field</b></td>
+    <td>Systems Engineering</td>
+  </tr>
+  <tr>
+    <td align="center">🏆</td>
+    <td><b>Competing</b></td>
+    <td>ICPC 2025</td>
+  </tr>
+  <tr>
+    <td align="center">♟️</td>
+    <td><b>Off-screen</b></td>
+    <td>Chess</td>
+  </tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td><b>Currently</b></td>
+    <td>Exploring new frameworks &amp; sharpening problem-solving</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=4000&pause=1500&color=999999&background=00000000&center=true&vCenter=true&width=520&lines=%22Simplicity+is+the+soul+of+efficiency.%22" alt="quote" />
+</p>
 
 ---
 
@@ -58,18 +80,41 @@ Hello there! I'm **Adinu Wira Nugraha**, a Systems Engineering student. Right no
 
 ## 📊 Statistics
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=adinu99&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080&border_color=333333&hide_rank=false" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinu99&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&langs_count=8" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adinu99&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080&border_color=333333" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adinu99&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adinu99&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adinu99&hide_border=true&bg_color=0D0D0D&color=CCCCCC&line=999999&point=FFFFFF&area=true&area_color=333333" width="97%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adinu99&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=2" width="90%" />
 </p>
 
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adinu99&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" width="80%" />
+  <img src="https://raw.githubusercontent.com/adinu99/adinu99/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 </p>
+
+> ⚙️ Animasi ular ini butuh setup sekali via GitHub Actions di repo `adinu99/adinu99`. Beri tahu aku kalau mau, aku buatkan file workflow-nya sekalian.
+
+### 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/adinu99/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adinu99&repo=REPO-1&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080" /></a>
+  <a href="https://github.com/adinu99/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adinu99&repo=REPO-2&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080" /></a>
+</p>
+
+> 🔁 Ganti `REPO-1` dan `REPO-2` dengan nama repo kamu yang paling ingin ditonjolkan.
 
 ---
 
