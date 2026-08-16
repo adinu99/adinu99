@@ -2,24 +2,6 @@
   <img src="./banner.svg" width="100%" alt="Header banner" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/adinu99">
-    <img src="https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://codeforces.com/profile/adinu99">
-    <img src="https://img.shields.io/badge/Codeforces-2B2B2B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://codechef.com/users/adinu99">
-    <img src="https://img.shields.io/badge/CodeChef-2B2B2B?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://pinterest.com/adinu99">
-    <img src="https://img.shields.io/badge/Pinterest-2B2B2B?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
-  </a>
-  <a href="https://chess.com/member/adinu99">
-    <img src="https://img.shields.io/badge/Chess.com-2B2B2B?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com" />
-  </a>
-</p>
-
 <br>
 
 <p align="center">
