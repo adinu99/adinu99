@@ -60,8 +60,8 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=adinu99&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666"
-    width="32%"
+    src="https://streak-stats.demolab.com?user=adinu99&card_width=1000&card_height=195&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666"
+    width="100%"
     alt="GitHub Streak"
   />
 </p>
