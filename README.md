@@ -36,6 +36,10 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:141414,100:050505&height=140&section=header&text=Welcome%20to%20Adinu's%20GitHub&fontColor=FFFFFF&fontSize=28&fontAlignY=45&animation=fadeIn&desc=%3C%2F%3E&descAlignY=68&descSize=16&descAlign=50" width="100%" alt="banner" />
+
+<br/>
+
 <table>
 <tr>
 <td align="center" width="50%">
@@ -54,6 +58,12 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+<h4>STATISTICS</h4>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adinu99&theme=dark&background=0D0D0D&border=292929&stroke=292929&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideStreakLabel=A1A1A1&sideStreakNum=A1A1A1&dates=666666&hide_border=false&border_radius=8" width="100%" alt="streak stats" />
 
 <br/>
 
