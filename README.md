@@ -39,8 +39,6 @@
 
 Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turning half-formed ideas into working code — mostly with **JavaScript**, **React**, and **Bootstrap**.
 
-<br clear="left">
-
 - Studying Systems Engineering
 - Building things with JavaScript, React & Bootstrap
 - Competing in ICPC 2025
@@ -56,7 +54,7 @@ Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turnin
 
 <sub><i>"Simplicity is the soul of efficiency."</i></sub>
 
-<br>
+<br clear="left">
 
 ## Technologies
 
