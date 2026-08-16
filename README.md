@@ -56,20 +56,22 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 <br clear="right">
 
 ---
-### Statistics
+## Statistics
 
-<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adinu99&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080&border_color=333333&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adinu99&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666" height="165" alt="Streak stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=adinu99&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666"
+    width="32%"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinu99&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&langs_count=8" width="45%" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adinu99&bg_color=0D0D0D&color=CCCCCC&line=999999&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=adinu99&bg_color=0D0D0D&color=CCCCCC&line=999999&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </p>
 
 <br>
