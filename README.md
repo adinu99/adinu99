@@ -83,20 +83,20 @@ I'm a Systems Engineering student who enjoys turning half-formed ideas into work
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=adinu99&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080&border_color=333333&hide_rank=false" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=adinu99&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080&border_color=333333&hide_rank=false" width="100%" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinu99&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&langs_count=8" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adinu99&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&langs_count=8" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adinu99&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=adinu99&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adinu99&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=2" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adinu99&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10&row=2" width="90%" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -110,11 +110,11 @@ I'm a Systems Engineering student who enjoys turning half-formed ideas into work
 ### 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/adinu99/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adinu99&repo=REPO-1&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080" /></a>
-  <a href="https://github.com/adinu99/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adinu99&repo=REPO-2&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080" /></a>
+  <a href="https://github.com/adinu99/Website-XI-TJKT-1"><img src="https://github-stats-extended.vercel.app/api/pin/?username=adinu99&repo=Website-XI-TJKT-1&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080" /></a>
+  <a href="https://github.com/adinu99/Website-Kelas"><img src="https://github-stats-extended.vercel.app/api/pin/?username=adinu99&repo=Website-Kelas&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080" /></a>
 </p>
 
-> 🔁 Ganti `REPO-1` dan `REPO-2` dengan nama repo kamu yang paling ingin ditonjolkan.
+> 💡 Ganti kapan saja dengan repo lain yang paling kamu banggakan — cukup ubah bagian `repo=NamaRepo` di URL-nya.
 
 ---
 
