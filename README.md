@@ -1,8 +1,12 @@
-<h1 align="center">Welcome to Benjamín's Github</h1>
+<p align="center">
+  <img src="https://placehold.co/150x150/1a1a1a/ffffff?text=Foto" width="150" style="border-radius:50%;" alt="Foto profil dummy">
+</p>
+
+<h1 align="center">Welcome to Adinu's Github</h1>
 <p align="center">&lt;/&gt;</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Welcome%20to%20Adinu's%20Github&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=32&animation=fadeIn" width="100%">
 </p>
 
 <p align="center">
@@ -15,7 +19,7 @@
 
 ## 📌 About me
 
-Hello there! I'm **Benjamín Solano**, a Systems Engineering student at Codeforces and Codechef. Right now I'm working on some little and fun projects to put into practice my knowledge about JavaScript, React, Bootstrap, and more.
+Hello there! I'm **Adinu Wira Nugraha**, a Systems Engineering student. Right now I'm working on some little and fun projects to put into practice my knowledge about JavaScript, React, Bootstrap, and more.
 
 - 🎓 Studying at the National University of Costa Rica (UNA)
 - 👨‍🏫 Private tutor in C++ at the University
