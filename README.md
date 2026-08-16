@@ -68,6 +68,14 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 
 <p align="center">
   <img
+    src="https://raw.githubusercontent.com/adinu99/adinu99/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=adinu99&bg_color=0D1117&color=FFFFFF&line=8B949E&point=FFFFFF&area=true&hide_border=true"
     width="100%"
     alt="Contribution Graph"
