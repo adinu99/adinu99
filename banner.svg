@@ -1,102 +1,151 @@
 <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#d4d4d4"/>
-      <stop offset="45%" stop-color="#e6e6e6"/>
-      <stop offset="100%" stop-color="#f2f2f2"/>
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="45%" stop-color="#111113"/>
+      <stop offset="100%" stop-color="#1c1c1e"/>
     </linearGradient>
     <linearGradient id="fujiLit" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#787878"/>
-      <stop offset="50%" stop-color="#6a6a6a"/>
-      <stop offset="100%" stop-color="#4c4c4c"/>
+      <stop offset="0%" stop-color="#5a5a5c"/>
+      <stop offset="50%" stop-color="#454547"/>
+      <stop offset="100%" stop-color="#2a2a2c"/>
     </linearGradient>
     <linearGradient id="fujiShade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#565656"/>
-      <stop offset="100%" stop-color="#3a3a3a"/>
+      <stop offset="0%" stop-color="#2e2e30"/>
+      <stop offset="100%" stop-color="#131314"/>
     </linearGradient>
     <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#cfcfcf"/>
-      <stop offset="100%" stop-color="#e8e8e8"/>
+      <stop offset="0%" stop-color="#0a0a0b"/>
+      <stop offset="100%" stop-color="#020202"/>
     </linearGradient>
     <linearGradient id="fadeOut" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#e8e8e8" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#e8e8e8" stop-opacity="1"/>
+      <stop offset="0%" stop-color="#050505" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="1"/>
     </linearGradient>
     <linearGradient id="mist" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#f5f5f5" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#f5f5f5" stop-opacity="0.9"/>
+      <stop offset="0%" stop-color="#3a3a3c" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#3a3a3c" stop-opacity="0.7"/>
     </linearGradient>
     <linearGradient id="woodGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#242424"/>
-      <stop offset="100%" stop-color="#101010"/>
+      <stop offset="0%" stop-color="#262626"/>
+      <stop offset="100%" stop-color="#0c0c0c"/>
     </linearGradient>
+    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e8e8ea" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#e8e8ea" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#e8e8ea" stop-opacity="0"/>
+    </radialGradient>
     <filter id="soften" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="4"/>
     </filter>
+    <filter id="softenLight" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
     <radialGradient id="vignette" cx="50%" cy="45%" r="75%">
-      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0.12"/>
+      <stop offset="55%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.45"/>
     </radialGradient>
   </defs>
 
   <!-- sky -->
   <rect width="1200" height="300" fill="url(#sky)"/>
 
-  <!-- soft blurred clouds -->
-  <g fill="#ffffff" opacity="0.55" filter="url(#soften)">
+  <!-- faint sun disc glow behind Fuji -->
+  <circle cx="600" cy="120" r="150" fill="url(#sunGlow)"/>
+
+  <!-- soft blurred clouds, more layers -->
+  <g fill="#5c5c5e" opacity="0.4" filter="url(#soften)">
     <ellipse cx="110" cy="42" rx="100" ry="14"/>
     <ellipse cx="230" cy="55" rx="60" ry="9"/>
     <ellipse cx="960" cy="30" rx="130" ry="12"/>
     <ellipse cx="1090" cy="58" rx="80" ry="10"/>
+    <ellipse cx="40" cy="90" rx="70" ry="8"/>
+    <ellipse cx="1150" cy="100" rx="60" ry="7"/>
+    <ellipse cx="330" cy="28" rx="45" ry="6"/>
+    <ellipse cx="820" cy="20" rx="55" ry="7"/>
   </g>
 
-  <!-- birds, subtle atmosphere detail -->
-  <g stroke="#7a7a7a" stroke-width="1.6" fill="none" opacity="0.7">
+  <!-- birds, subtle atmosphere detail, more of them -->
+  <g stroke="#5a5a5c" stroke-width="1.6" fill="none" opacity="0.6">
     <path d="M150,95 q6,-7 12,0 q6,-7 12,0"/>
     <path d="M180,110 q5,-6 10,0 q5,-6 10,0"/>
     <path d="M1010,95 q6,-7 12,0 q6,-7 12,0"/>
+    <path d="M1045,80 q5,-6 10,0 q5,-6 10,0"/>
+    <path d="M85,130 q4,-5 8,0 q4,-5 8,0"/>
+    <path d="M760,60 q5,-6 10,0 q5,-6 10,0"/>
   </g>
 
   <!-- distant hazy mountain ridge -->
-  <path d="M0,168 Q100,150 220,164 T460,158 T700,166 T940,156 T1200,164 L1200,192 L0,192 Z" fill="#b4b4b4" opacity="0.55"/>
+  <path d="M0,168 Q100,150 220,164 T460,158 T700,166 T940,156 T1200,164 L1200,192 L0,192 Z" fill="#4a4a4c" opacity="0.5"/>
+  <path d="M0,174 Q120,160 260,170 T520,164 T780,172 T1200,168 L1200,192 L0,192 Z" fill="#38383a" opacity="0.4"/>
 
   <!-- near tree-covered hills silhouette, layered -->
-  <path d="M0,178 Q90,164 200,176 T420,170 T640,178 T860,168 T1080,176 T1200,170 L1200,196 L0,196 Z" fill="#8f8f8f" opacity="0.5"/>
+  <path d="M0,178 Q90,164 200,176 T420,170 T640,178 T860,168 T1080,176 T1200,170 L1200,196 L0,196 Z" fill="#252527" opacity="0.65"/>
 
   <!-- Mount Fuji, two-tone faceted shading -->
   <path d="M600,58 L735,192 L600,192 Z" fill="url(#fujiShade)"/>
   <path d="M600,58 L465,192 L600,192 Z" fill="url(#fujiLit)"/>
-  <!-- subtle rock ridges on the slope -->
+  <!-- subtle rock ridges on the slope, more of them -->
   <g stroke="#2f2f2f" stroke-width="1.5" opacity="0.35" fill="none">
     <path d="M545,128 L560,150 L548,168"/>
     <path d="M660,128 L648,150 L662,170"/>
     <path d="M600,90 L600,192"/>
+    <path d="M515,150 L528,172 L520,188"/>
+    <path d="M690,148 L678,170 L688,186"/>
+    <path d="M575,110 L585,135"/>
+    <path d="M628,112 L618,138"/>
   </g>
-  <!-- snow cap, jagged -->
+  <!-- snow cap, jagged, extra fine cracks -->
   <path d="M600,58 L568,98 L580,96 L592,112 L600,96 L610,114 L622,96 L634,100 Z" fill="#f4f4f4"/>
   <path d="M600,58 L622,96 L634,100 L646,90 L634,110 L618,98 L600,110 Z" fill="#e2e2e2"/>
+  <g stroke="#c9c9c9" stroke-width="0.8" opacity="0.6" fill="none">
+    <path d="M584,98 L590,108"/>
+    <path d="M612,100 L606,110"/>
+    <path d="M600,70 L600,90"/>
+  </g>
 
-  <!-- mist band at mountain base -->
+  <!-- mist band at mountain base, double layer -->
   <rect x="0" y="150" width="1200" height="45" fill="url(#mist)"/>
+  <ellipse cx="600" cy="182" rx="620" ry="10" fill="#4a4a4c" opacity="0.5" filter="url(#softenLight)"/>
 
-  <!-- shoreline tree line, in front of Fuji -->
+  <!-- shoreline tree line, in front of Fuji, denser -->
   <path d="M0,190 Q100,176 220,188 T440,182 T660,190 T880,182 T1100,190 L1200,186 L1200,206 L0,206 Z" fill="#2e2e2e"/>
-  <g fill="#242424" opacity="0.8">
+  <g fill="#242424" opacity="0.85">
     <ellipse cx="90" cy="182" rx="18" ry="10"/>
     <ellipse cx="260" cy="180" rx="22" ry="11"/>
     <ellipse cx="980" cy="178" rx="24" ry="11"/>
     <ellipse cx="1130" cy="182" rx="18" ry="9"/>
+    <ellipse cx="150" cy="188" rx="14" ry="7"/>
+    <ellipse cx="380" cy="186" rx="16" ry="8"/>
+    <ellipse cx="850" cy="186" rx="16" ry="8"/>
+    <ellipse cx="1040" cy="180" rx="20" ry="9"/>
+  </g>
+  <!-- a few taller pine silhouettes for foreground detail -->
+  <g fill="#1a1a1a">
+    <path d="M60,190 L66,160 L72,190 Z"/>
+    <path d="M64,178 L70,155 L76,178 Z"/>
+    <path d="M1150,190 L1156,158 L1162,190 Z"/>
+    <path d="M1154,176 L1160,152 L1166,176 Z"/>
   </g>
 
   <!-- water -->
   <rect x="0" y="192" width="1200" height="108" fill="url(#water)"/>
 
-  <!-- water ripple lines, varied -->
-  <g stroke="#c2c2c2" stroke-width="1" opacity="0.55" fill="none">
+  <!-- water ripple lines, varied, extra rows -->
+  <g stroke="#3c3c3e" stroke-width="1" opacity="0.6" fill="none">
+    <path d="M0,206 Q150,203 300,206 T600,206 T900,206 T1200,206"/>
     <path d="M0,215 Q150,212 300,215 T600,215 T900,215 T1200,215"/>
     <path d="M0,235 Q150,231 300,235 T600,235 T900,235 T1200,235"/>
     <path d="M0,258 Q150,254 300,258 T600,258 T900,258 T1200,258"/>
     <path d="M0,280 Q150,276 300,280 T600,280 T900,280 T1200,280"/>
+    <path d="M0,292 Q150,288 300,292 T600,292 T900,292 T1200,292"/>
+  </g>
+
+  <!-- distant tiny fishing boat for extra detail -->
+  <g opacity="0.6">
+    <path d="M900,222 Q908,218 916,222 L913,227 L903,227 Z" fill="#2a2a2a"/>
+    <line x1="909" y1="222" x2="909" y2="212" stroke="#2a2a2a" stroke-width="1"/>
+    <path d="M909,213 L916,219 L909,220 Z" fill="#3a3a3a"/>
   </g>
 
   <!-- rock island, more organic and detailed -->
@@ -119,12 +168,24 @@
     <rect x="588" y="207" width="24" height="6"/>
     <rect x="583" y="214" width="34" height="6"/>
   </g>
+  <!-- small stone lanterns flanking the steps -->
+  <g fill="#1c1c1c">
+    <rect x="560" y="205" width="6" height="10"/>
+    <rect x="558" y="200" width="10" height="6"/>
+    <polygon points="557,200 563,192 569,200" fill="#1c1c1c"/>
+    <rect x="634" y="205" width="6" height="10"/>
+    <rect x="632" y="200" width="10" height="6"/>
+    <polygon points="631,200 637,192 643,200" fill="#1c1c1c"/>
+  </g>
 
   <!-- torii gate, detailed with tapered pillars and curved lintel -->
   <g>
     <!-- pillars, slightly tapered -->
     <polygon points="553,150 565,150 566,230 552,230" fill="url(#woodGrad)"/>
     <polygon points="653,150 665,150 666,230 652,230" fill="url(#woodGrad)"/>
+    <!-- pillar highlight strokes for roundness -->
+    <line x1="556" y1="153" x2="556" y2="228" stroke="#3a3a3a" stroke-width="1" opacity="0.5"/>
+    <line x1="656" y1="153" x2="656" y2="228" stroke="#3a3a3a" stroke-width="1" opacity="0.5"/>
     <!-- base stones under pillars -->
     <ellipse cx="559" cy="231" rx="10" ry="4" fill="#161616"/>
     <ellipse cx="659" cy="231" rx="10" ry="4" fill="#161616"/>
@@ -133,10 +194,10 @@
     <!-- plaque -->
     <rect x="592" y="176" width="34" height="9" fill="#101010"/>
     <rect x="596" y="178" width="26" height="5" fill="none" stroke="#3a3a3a" stroke-width="0.6"/>
+    <text x="609" y="184" text-anchor="middle" font-family="Noto Serif CJK JP, serif" font-size="7" fill="#9a9a9a">神社</text>
     <!-- kasagi (curved top lintel) with slight upward curve at ends -->
     <path d="M535,152 Q610,138 685,152 L682,160 Q610,147 538,160 Z" fill="url(#woodGrad)"/>
     <!-- shimaki (second lintel bar under kasagi) -->
-    <rect x="540,135" width="0" height="0" fill="none"/>
     <path d="M542,161 L678,161 L678,169 L542,169 Z" fill="url(#woodGrad)"/>
     <!-- end caps flare -->
     <path d="M535,152 L522,158 L525,167 L538,160 Z" fill="url(#woodGrad)"/>
@@ -156,10 +217,10 @@
   <!-- vignette for photographic depth -->
   <rect width="1200" height="300" fill="url(#vignette)"/>
 
-  <!-- soft backing for readability behind large centered title -->
-  <ellipse cx="600" cy="75" rx="340" ry="72" fill="#f2f2f2" opacity="0.6"/>
+  <!-- soft dark glow backing for readability behind large centered title -->
+  <ellipse cx="600" cy="140" rx="420" ry="95" fill="#000000" opacity="0.55" filter="url(#soften)"/>
 
-  <!-- title text, centered -->
-  <text x="600" y="75" text-anchor="middle" font-family="Noto Serif CJK JP, serif" font-size="66" font-weight="700" fill="#181818">ようこそ</text>
-  <text x="600" y="108" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#3a3a3a" letter-spacing="1.5">Welcome to Adinu's GitHub</text>
+  <!-- title text, centered, enlarged and dominant, light fill for max contrast against dark scene -->
+  <text x="600" y="152" text-anchor="middle" font-family="Noto Serif CJK JP, serif" font-size="108" font-weight="700" fill="#fafafa" stroke="#000000" stroke-width="1.5" stroke-opacity="0.35">ようこそ</text>
+  <text x="600" y="194" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="26" fill="#d8d8da" letter-spacing="2">アディヌのギットハブへようこそ</text>
 </svg>
