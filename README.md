@@ -37,12 +37,12 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 <br clear="left">
 
 ---
+<img src="./laptop.png" width="305" align="right" hspace="0" vspace="2" alt="laptop" />
+
 ### Tech Stack
 
-<img src="./laptop.png" width="305" align="right" hspace="24" vspace="2" alt="laptop" />
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,r,java,cpp,ruby,react,angular,nodejs,bootstrap,git,postgres,mysql&perline=8&size=48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,r,java,cpp,ruby,react,angular,nodejs,bootstrap,git,postgres,mysql&perline=9&size=48" />
 </p>
 
 <p align="left">
@@ -54,6 +54,9 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 </p>
 
 <br clear="right">
+
+---
+## Statistics
 
 <br>
 
