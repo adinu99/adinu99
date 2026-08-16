@@ -60,7 +60,7 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=adinu99&card_width=1000&card_height=195&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666"
+    src="https://streak-stats.demolab.com?user=adinu99&card_width=1000&background=0D1117&stroke=30363D&ring=8B949E&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=8B949E&sideLabels=8B949E&dates=6E7681"
     width="100%"
     alt="GitHub Streak"
   />
@@ -68,7 +68,7 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=adinu99&bg_color=0D0D0D&color=CCCCCC&line=999999&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=adinu99&bg_color=0D1117&color=FFFFFF&line=8B949E&point=FFFFFF&area=true&hide_border=true"
     width="100%"
     alt="Contribution Graph"
   />
@@ -76,22 +76,3 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 
 <br>
 
----
-### Pinned Repositories
-
-<table align="center" width="100%" cellpadding="6" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/adinu99/Website-XI-TJKT-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=adinu99&repo=Website-XI-TJKT-1&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080" width="100%" alt="Website-XI-TJKT-1" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/adinu99/Website-Kelas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=adinu99&repo=Website-Kelas&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080" width="100%" alt="Website-Kelas" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
