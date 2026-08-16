@@ -127,6 +127,3 @@ Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turnin
 
 <br>
 
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="Footer banner" />
-</p>
