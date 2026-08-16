@@ -1,0 +1,65 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="55%" stop-color="#141414"/>
+      <stop offset="100%" stop-color="#232323"/>
+    </linearGradient>
+    <linearGradient id="mtnBack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1c1c1c"/>
+      <stop offset="100%" stop-color="#141414"/>
+    </linearGradient>
+    <linearGradient id="mtnMid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a2a2a"/>
+      <stop offset="100%" stop-color="#181818"/>
+    </linearGradient>
+    <linearGradient id="mtnFront" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#sky)"/>
+
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle cx="80" cy="40" r="1.4" opacity="0.8"/>
+    <circle cx="160" cy="70" r="1" opacity="0.5"/>
+    <circle cx="260" cy="30" r="1.2" opacity="0.7"/>
+    <circle cx="340" cy="60" r="1" opacity="0.4"/>
+    <circle cx="420" cy="25" r="1.4" opacity="0.8"/>
+    <circle cx="520" cy="55" r="1" opacity="0.5"/>
+    <circle cx="640" cy="35" r="1.2" opacity="0.6"/>
+    <circle cx="760" cy="65" r="1" opacity="0.4"/>
+    <circle cx="880" cy="30" r="1.4" opacity="0.8"/>
+    <circle cx="980" cy="60" r="1" opacity="0.5"/>
+    <circle cx="1080" cy="25" r="1.2" opacity="0.7"/>
+    <circle cx="1140" cy="55" r="1" opacity="0.5"/>
+    <circle cx="1180" cy="90" r="1" opacity="0.4"/>
+    <circle cx="40" cy="100" r="1" opacity="0.4"/>
+  </g>
+
+  <!-- moon -->
+  <circle cx="990" cy="70" r="70" fill="url(#moonGlow)"/>
+  <circle cx="990" cy="70" r="26" fill="#f2f2f2"/>
+  <circle cx="998" cy="62" r="5" fill="#d8d8d8" opacity="0.6"/>
+  <circle cx="982" cy="78" r="3.5" fill="#d8d8d8" opacity="0.5"/>
+
+  <!-- back mountains -->
+  <path d="M0,190 L120,120 L230,175 L340,110 L470,185 L600,130 L720,190 L860,125 L980,180 L1100,140 L1200,185 L1200,300 L0,300 Z" fill="url(#mtnBack)"/>
+
+  <!-- mid mountains -->
+  <path d="M0,230 L150,160 L280,215 L400,150 L540,220 L680,165 L810,225 L950,170 L1080,220 L1200,190 L1200,300 L0,300 Z" fill="url(#mtnMid)"/>
+
+  <!-- front mountains -->
+  <path d="M0,270 L100,215 L220,260 L360,200 L500,265 L650,210 L800,270 L950,225 L1080,265 L1200,235 L1200,300 L0,300 Z" fill="url(#mtnFront)"/>
+
+  <!-- title -->
+  <text x="600" y="150" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="34" fill="#ffffff" font-weight="600">Welcome to Adinu's GitHub</text>
+  <text x="600" y="180" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#b3b3b3">&lt;/&gt;</text>
+</svg>
