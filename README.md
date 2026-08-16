@@ -14,7 +14,7 @@
 
 ### Hi! I'm ADINU WIRA NUGRAHA
 
-a Systems Engineering student, developer, and curious builder. I like taking an idea, breaking it apart, and figuring out how to turn it into something that actually works. Currently, I'm mostly playing around with JavaScript, React, and Bootstrap.
+I'm a developer, designer, and curious builder who enjoys turning ideas into useful things. I work across web development, software tools, graphic design, and technology, while continuously learning new skills, including Japanese.
 
 - Studying Systems Engineering
 - Building things with JavaScript, React & Bootstrap
