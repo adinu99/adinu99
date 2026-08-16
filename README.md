@@ -33,7 +33,7 @@
 
 <br>
 
-<h2 align="center">About me</h2>
+<h2 align="center" style="width: 260px;">About me</h2>
 
 <img src="./graduation-cap.png" width="260" align="left" style="margin: 4px 24px 4px 0;" alt="graduation cap" />
 
