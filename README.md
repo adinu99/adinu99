@@ -33,27 +33,74 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 
 ## Tech Stack
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="14" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/cplusplus/9a9a9c" width="42" height="42" alt="C++" /><br /><sub>C++</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/openjdk/9a9a9c" width="42" height="42" alt="Java" /><br /><sub>Java</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/python/9a9a9c" width="42" height="42" alt="Python" /><br /><sub>Python</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/r/9a9a9c" width="42" height="42" alt="R" /><br /><sub>R</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/javascript/9a9a9c" width="42" height="42" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="20" style="border:none; border-collapse:collapse; width:100%;">
+  <tr style="border:none;">
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/cplusplus/ffffff" width="48" height="48" alt="C++" /><br>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/openjdk/ffffff" width="48" height="48" alt="Java" /><br>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/python/ffffff" width="48" height="48" alt="Python" /><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/r/ffffff" width="48" height="48" alt="R" /><br>
+      <sub><b>R</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/javascript/ffffff" width="48" height="48" alt="JavaScript" /><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/html5/9a9a9c" width="42" height="42" alt="HTML5" /><br /><sub>HTML5</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/css3/9a9a9c" width="42" height="42" alt="CSS3" /><br /><sub>CSS3</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/react/9a9a9c" width="42" height="42" alt="React" /><br /><sub>React</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/9a9a9c" width="42" height="42" alt="Bootstrap" /><br /><sub>Bootstrap</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/ruby/9a9a9c" width="42" height="42" alt="Ruby" /><br /><sub>Ruby</sub></td>
+
+  <tr style="border:none;">
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/html5/ffffff" width="48" height="48" alt="HTML5" /><br>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/css3/ffffff" width="48" height="48" alt="CSS3" /><br>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/react/ffffff" width="48" height="48" alt="React" /><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/bootstrap/ffffff" width="48" height="48" alt="Bootstrap" /><br>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/ruby/ffffff" width="48" height="48" alt="Ruby" /><br>
+      <sub><b>Ruby</b></sub>
+    </td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/angular/9a9a9c" width="42" height="42" alt="Angular" /><br /><sub>Angular</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/9a9a9c" width="42" height="42" alt="Node.js" /><br /><sub>Node.js</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/git/9a9a9c" width="42" height="42" alt="Git" /><br /><sub>Git</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/postgresql/9a9a9c" width="42" height="42" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/mysql/9a9a9c" width="42" height="42" alt="MySQL" /><br /><sub>MySQL</sub></td>
+
+  <tr style="border:none;">
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/angular/ffffff" width="48" height="48" alt="Angular" /><br>
+      <sub><b>Angular</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="48" height="48" alt="Node.js" /><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/git/ffffff" width="48" height="48" alt="Git" /><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="48" height="48" alt="PostgreSQL" /><br>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="https://cdn.simpleicons.org/mysql/ffffff" width="48" height="48" alt="MySQL" /><br>
+      <sub><b>MySQL</b></sub>
+    </td>
   </tr>
 </table>
 
