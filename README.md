@@ -52,8 +52,6 @@ Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turnin
   <img src="https://img.shields.io/badge/Currently-Learning%20new%20frameworks-2B2B2B?style=flat-square" alt="Currently" />
 </p>
 
-<i>"Simplicity is the soul of efficiency."</i>
-
 <br clear="left">
 
 ## Technologies
