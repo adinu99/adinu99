@@ -35,7 +35,7 @@
 
 ## Behind the Code
 
-<img src="./graduation-cap.png" width="305" align="left" hspace="24" vspace="4" alt="graduation cap" />
+<img src="./graduation-cap.png" width="305" align="left" hspace="24" vspace="2" alt="graduation cap" />
 
 ### Hi! I'm ADINU WIRA NUGRAHA
 
