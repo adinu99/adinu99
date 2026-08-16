@@ -13,7 +13,8 @@
 
 <br>
 
-## Behind the Code
+---
+### Behind the Code
 
 <img src="./graduation-cap.png" width="305" align="left" hspace="24" vspace="2" alt="graduation cap" />
 
@@ -36,7 +37,8 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 
 <br clear="left">
 
-## Tech Stack
+---
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,r,java,cpp,ruby,react,angular,nodejs,bootstrap,git,postgres,mysql&perline=8&size=48" />
