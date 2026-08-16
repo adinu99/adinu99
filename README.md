@@ -35,7 +35,7 @@
 
 ## About me
 
-<img src="./graduation-cap.png" width="140" align="left" alt="graduation cap" />
+<img src="./graduation-cap.png" width="200" align="left" style="margin: 4px 24px 4px 0;" alt="graduation cap" />
 
 Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turning half-formed ideas into working code — mostly with **JavaScript**, **React**, and **Bootstrap**.
 
