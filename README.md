@@ -33,7 +33,7 @@
 
 <br>
 
-<p align="center" style="width: 260px; font-size: 24px; font-weight: 700; margin-bottom: 0;">About me</p>
+## About me
 
 <img src="./graduation-cap.png" width="260" align="left" style="margin: 4px 24px 4px 0;" alt="graduation cap" />
 
@@ -52,7 +52,7 @@ Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turnin
   <img src="https://img.shields.io/badge/Currently-Learning%20new%20frameworks-2B2B2B?style=flat-square" alt="Currently" />
 </p>
 
-<sub><i>"Simplicity is the soul of efficiency."</i></sub>
+<p style="margin-left: 284px;"><sub><i>"Simplicity is the soul of efficiency."</i></sub></p>
 
 <br clear="left">
 
