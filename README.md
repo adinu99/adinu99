@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://placehold.co/150x150/1a1a1a/ffffff?text=Foto" width="150" style="border-radius:50%;" alt="Foto profil dummy">
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=200&section=header&text=Welcome%20to%20Adinu's%20Github&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=32&animation=fadeIn" width="100%">
 </p>
 
