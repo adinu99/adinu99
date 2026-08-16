@@ -5,8 +5,8 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/adinu99?style=for-the-badge&color=2B2B2B&labelColor=1A1A1A&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=adinu99&color=2b2b2b&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
+  <img src="./followers-badge.svg" alt="Followers" />
+  <img src="./views-badge.svg" alt="Views" />
 </p>
 
 <br>
