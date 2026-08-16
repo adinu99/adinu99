@@ -51,6 +51,7 @@ a Systems Engineering student, developer, and curious builder. I like taking an 
   <img src="https://img.shields.io/badge/Competing-ICPC%202025-2B2B2B?style=flat-square" alt="Competing" />
   <img src="https://img.shields.io/badge/Off--screen-Chess-2B2B2B?style=flat-square" alt="Off-screen" />
   <img src="https://img.shields.io/badge/Currently-Learning%20new%20frameworks-2B2B2B?style=flat-square" alt="Currently" />
+  <img src="https://img.shields.io/badge/Currently-Learning%20new%20frameworks-2B2B2B?style=flat-square" alt="Currently" />
 </p>
 
 <br clear="left">
