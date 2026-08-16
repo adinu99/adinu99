@@ -33,73 +33,74 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 
 ## Tech Stack
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="20" style="border:none; border-collapse:collapse; width:100%;">
-  <tr style="border:none;">
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/cplusplus/ffffff" width="48" height="48" alt="C++" /><br>
-      <sub><b>C++</b></sub>
+<table width="100%" border="0" cellspacing="0" cellpadding="14"
+  style="width:100%; border:0 !important; border-collapse:collapse; table-layout:fixed;">
+  <tr>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/cplusplus/ffffff" width="42" height="42" alt="C++" /><br />
+      <sub>C++</sub>
     </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/openjdk/ffffff" width="48" height="48" alt="Java" /><br>
-      <sub><b>Java</b></sub>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/openjdk/ffffff" width="42" height="42" alt="Java" /><br />
+      <sub>Java</sub>
     </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/python/ffffff" width="48" height="48" alt="Python" /><br>
-      <sub><b>Python</b></sub>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/python/ffffff" width="42" height="42" alt="Python" /><br />
+      <sub>Python</sub>
     </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/r/ffffff" width="48" height="48" alt="R" /><br>
-      <sub><b>R</b></sub>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/r/ffffff" width="42" height="42" alt="R" /><br />
+      <sub>R</sub>
     </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/javascript/ffffff" width="48" height="48" alt="JavaScript" /><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-  </tr>
-
-  <tr style="border:none;">
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/html5/ffffff" width="48" height="48" alt="HTML5" /><br>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/css3/ffffff" width="48" height="48" alt="CSS3" /><br>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/react/ffffff" width="48" height="48" alt="React" /><br>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/bootstrap/ffffff" width="48" height="48" alt="Bootstrap" /><br>
-      <sub><b>Bootstrap</b></sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/ruby/ffffff" width="48" height="48" alt="Ruby" /><br>
-      <sub><b>Ruby</b></sub>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/javascript/ffffff" width="42" height="42" alt="JavaScript" /><br />
+      <sub>JavaScript</sub>
     </td>
   </tr>
 
-  <tr style="border:none;">
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/angular/ffffff" width="48" height="48" alt="Angular" /><br>
-      <sub><b>Angular</b></sub>
+  <tr>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/html5/ffffff" width="42" height="42" alt="HTML5" /><br />
+      <sub>HTML5</sub>
     </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="48" height="48" alt="Node.js" /><br>
-      <sub><b>Node.js</b></sub>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/css3/ffffff" width="42" height="42" alt="CSS3" /><br />
+      <sub>CSS3</sub>
     </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/git/ffffff" width="48" height="48" alt="Git" /><br>
-      <sub><b>Git</b></sub>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/react/ffffff" width="42" height="42" alt="React" /><br />
+      <sub>React</sub>
     </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="48" height="48" alt="PostgreSQL" /><br>
-      <sub><b>PostgreSQL</b></sub>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/bootstrap/ffffff" width="42" height="42" alt="Bootstrap" /><br />
+      <sub>Bootstrap</sub>
     </td>
-    <td align="center" style="border:none;">
-      <img src="https://cdn.simpleicons.org/mysql/ffffff" width="48" height="48" alt="MySQL" /><br>
-      <sub><b>MySQL</b></sub>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/ruby/ffffff" width="42" height="42" alt="Ruby" /><br />
+      <sub>Ruby</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/angular/ffffff" width="42" height="42" alt="Angular" /><br />
+      <sub>Angular</sub>
+    </td>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="42" height="42" alt="Node.js" /><br />
+      <sub>Node.js</sub>
+    </td>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/git/ffffff" width="42" height="42" alt="Git" /><br />
+      <sub>Git</sub>
+    </td>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="42" height="42" alt="PostgreSQL" /><br />
+      <sub>PostgreSQL</sub>
+    </td>
+    <td width="20%" align="center" style="width:20%; border:0 !important;">
+      <img src="https://cdn.simpleicons.org/mysql/ffffff" width="42" height="42" alt="MySQL" /><br />
+      <sub>MySQL</sub>
     </td>
   </tr>
 </table>
