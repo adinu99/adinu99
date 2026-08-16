@@ -33,32 +33,9 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 
 ## Tech Stack
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="14"
-  style="width:100%; min-width:100%; margin-left:auto; margin-right:auto; border:0; border-collapse:collapse;">
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/cplusplus/ffffff" width="42" height="42" alt="C++"><br><sub>C++</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/openjdk/ffffff" width="42" height="42" alt="Java"><br><sub>Java</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/python/ffffff" width="42" height="42" alt="Python"><br><sub>Python</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/r/ffffff" width="42" height="42" alt="R"><br><sub>R</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/javascript/ffffff" width="42" height="42" alt="JavaScript"><br><sub>JavaScript</sub></td>
-  </tr>
-
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/html5/ffffff" width="42" height="42" alt="HTML5"><br><sub>HTML5</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/css3/ffffff" width="42" height="42" alt="CSS3"><br><sub>CSS3</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/react/ffffff" width="42" height="42" alt="React"><br><sub>React</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/bootstrap/ffffff" width="42" height="42" alt="Bootstrap"><br><sub>Bootstrap</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/ruby/ffffff" width="42" height="42" alt="Ruby"><br><sub>Ruby</sub></td>
-  </tr>
-
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/angular/ffffff" width="42" height="42" alt="Angular"><br><sub>Angular</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/nodedotjs/ffffff" width="42" height="42" alt="Node.js"><br><sub>Node.js</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/git/ffffff" width="42" height="42" alt="Git"><br><sub>Git</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/postgresql/ffffff" width="42" height="42" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/mysql/ffffff" width="42" height="42" alt="MySQL"><br><sub>MySQL</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,r,java,cpp,ruby,react,angular,nodejs,bootstrap,git,postgres,mysql&perline=8&size=64" />
+</p>
 
 <br>
 
