@@ -67,11 +67,7 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/adinu99/adinu99/output/github-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/adinu99/adinu99/output/github-snake-dark.svg" alt="snake" />
 </p>
 
 <p align="center">
