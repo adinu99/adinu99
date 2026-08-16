@@ -33,7 +33,7 @@
 
 <br>
 
-## A Bit About Me
+## Behind the Code
 
 <img src="./graduation-cap.png" width="305" align="left" style="margin: 4px 24px 4px 0;" alt="graduation cap" />
 
