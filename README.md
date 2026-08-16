@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=200&section=header&text=Welcome%20to%20Adinu's%20GitHub&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&fontSize=28&animation=fadeIn" width="100%" alt="Header banner" />
+  <img src="./banner.svg" width="100%" alt="Header banner" />
 </p>
 
 <p align="center">
@@ -119,5 +119,5 @@ Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turnin
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=footer" width="100%" alt="Footer banner" />
+  <img src="./banner.svg" width="100%" alt="Footer banner" />
 </p>
