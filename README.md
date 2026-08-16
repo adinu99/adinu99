@@ -31,29 +31,29 @@ a Systems Engineering student, developer, and curious builder. I like taking an 
 
 <br clear="left">
 
-## Technologies
+## Tech Stack
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="10" style="border:none; border-collapse:collapse;">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="14" style="border:none; border-collapse:collapse;">
   <tr>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/C++-2B2B2B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/Java-2B2B2B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/Python-2B2B2B?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/R-2B2B2B?style=for-the-badge&logo=r&logoColor=white" alt="R" /></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/cplusplus/9a9a9c" width="42" height="42" alt="C++" /><br /><sub>C++</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/openjdk/9a9a9c" width="42" height="42" alt="Java" /><br /><sub>Java</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/python/9a9a9c" width="42" height="42" alt="Python" /><br /><sub>Python</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/r/9a9a9c" width="42" height="42" alt="R" /><br /><sub>R</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/javascript/9a9a9c" width="42" height="42" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/HTML5-2B2B2B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/CSS3-2B2B2B?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/React-2B2B2B?style=for-the-badge&logo=react&logoColor=white" alt="React" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Bootstrap-2B2B2B?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Ruby-2B2B2B?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/html5/9a9a9c" width="42" height="42" alt="HTML5" /><br /><sub>HTML5</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/css3/9a9a9c" width="42" height="42" alt="CSS3" /><br /><sub>CSS3</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/react/9a9a9c" width="42" height="42" alt="React" /><br /><sub>React</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/9a9a9c" width="42" height="42" alt="Bootstrap" /><br /><sub>Bootstrap</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/ruby/9a9a9c" width="42" height="42" alt="Ruby" /><br /><sub>Ruby</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Angular-2B2B2B?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-2B2B2B?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/MySQL-2B2B2B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/angular/9a9a9c" width="42" height="42" alt="Angular" /><br /><sub>Angular</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/9a9a9c" width="42" height="42" alt="Node.js" /><br /><sub>Node.js</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/git/9a9a9c" width="42" height="42" alt="Git" /><br /><sub>Git</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/postgresql/9a9a9c" width="42" height="42" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/mysql/9a9a9c" width="42" height="42" alt="MySQL" /><br /><sub>MySQL</sub></td>
   </tr>
 </table>
 
