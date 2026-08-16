@@ -33,27 +33,31 @@ a Systems Engineering student, developer, and curious builder. I like taking an 
 
 ## Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-2B2B2B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-2B2B2B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-2B2B2B?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-2B2B2B?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-2B2B2B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-2B2B2B?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-2B2B2B?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-2B2B2B?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Ruby-2B2B2B?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-2B2B2B?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/PostgreSQL-2B2B2B?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-2B2B2B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+## Technologies
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/C++-2B2B2B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></td>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/Java-2B2B2B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></td>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/Python-2B2B2B?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/R-2B2B2B?style=for-the-badge&logo=r&logoColor=white" alt="R" /></td>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/HTML5-2B2B2B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/CSS3-2B2B2B?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/React-2B2B2B?style=for-the-badge&logo=react&logoColor=white" alt="React" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Bootstrap-2B2B2B?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Ruby-2B2B2B?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Angular-2B2B2B?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-2B2B2B?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-2B2B2B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></td>
+  </tr>
+</table>
 
 <br>
 
