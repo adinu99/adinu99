@@ -36,24 +36,27 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 
 <br clear="left">
 
-## Tech Stack
+<h3>Tech Stack</h3>
+
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,r,java,cpp,ruby,react,angular,nodejs,bootstrap,git,postgres,mysql&perline=8&size=64" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717"/>
-  <img src="https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Debian-FFFFFF?style=for-the-badge&logo=debian&logoColor=A81D33"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,r,java,cpp,ruby,react,angular,nodejs,bootstrap,git,postgres,mysql&perline=8&size=48" />
 </p>
 
 <br>
 
-## Statistics
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" />
+  <img src="https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Debian-FFFFFF?style=for-the-badge&logo=debian&logoColor=A81D33" />
+</p>
 
+<br>
+
+<h3>Statistics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adinu99&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080&border_color=333333&count_private=true" height="165" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adinu99&hide_border=true&background=0D0D0D&stroke=333333&ring=CCCCCC&fire=999999&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&sideLabels=999999&dates=666666" height="165" alt="Streak stats" />
