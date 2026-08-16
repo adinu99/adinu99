@@ -33,17 +33,27 @@
 
 <br>
 
-## About me
+<h2 align="center">About me</h2>
 
-<img src="./graduation-cap.png" width="260" align="left" style="margin: 4px 24px 4px 0;" alt="graduation cap" />
+<div align="center">
+
+<img src="./graduation-cap.png" width="200" alt="graduation cap" />
 
 Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turning half-formed ideas into working code — mostly with **JavaScript**, **React**, and **Bootstrap**.
+
+<table>
+  <tr>
+    <td>
 
 - Studying Systems Engineering
 - Building things with JavaScript, React & Bootstrap
 - Competing in ICPC 2025
 - Off-screen: playing chess
 - Currently learning new frameworks
+
+  </td>
+  </tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/Field-Systems%20Engineering-2B2B2B?style=flat-square" alt="Field" />
@@ -54,7 +64,7 @@ Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turnin
 
 <sub><i>"Simplicity is the soul of efficiency."</i></sub>
 
-<br clear="left">
+</div>
 
 ## Technologies
 
