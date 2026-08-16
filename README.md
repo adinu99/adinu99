@@ -3,7 +3,6 @@
 </p>
 
 <br>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=%E3%82%A6%E3%82%A7%E3%83%96%E9%96%8B%E7%99%BA+%E3%83%BB+%E3%83%84%E3%83%BC%E3%83%AB%E5%88%B6%E4%BD%9C+%E3%83%BB+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A8%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A7%E3%80%81%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%92%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B%E3%80%82;Linux+%E3%83%BB+%E6%97%A5%E6%9C%AC%E8%AA%9E+%E3%83%BB+%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%92%E6%8E%A2%E6%B1%82%E3%81%99%E3%82%8B%E3%80%82"
