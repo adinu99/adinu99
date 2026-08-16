@@ -96,9 +96,9 @@
     <path d="M628,112 L618,138"/>
   </g>
   <!-- snow cap, jagged, extra fine cracks -->
-  <path d="M600,58 L568,98 L580,96 L592,112 L600,96 L610,114 L622,96 L634,100 Z" fill="#f4f4f4"/>
-  <path d="M600,58 L622,96 L634,100 L646,90 L634,110 L618,98 L600,110 Z" fill="#e2e2e2"/>
-  <g stroke="#c9c9c9" stroke-width="0.8" opacity="0.6" fill="none">
+  <path d="M600,58 L568,98 L580,96 L592,112 L600,96 L610,114 L622,96 L634,100 Z" fill="#9a9a9c"/>
+  <path d="M600,58 L622,96 L634,100 L646,90 L634,110 L618,98 L600,110 Z" fill="#7c7c7e"/>
+  <g stroke="#6a6a6c" stroke-width="0.8" opacity="0.6" fill="none">
     <path d="M584,98 L590,108"/>
     <path d="M612,100 L606,110"/>
     <path d="M600,70 L600,90"/>
@@ -216,9 +216,6 @@
 
   <!-- vignette for photographic depth -->
   <rect width="1200" height="300" fill="url(#vignette)"/>
-
-  <!-- soft dark glow backing for readability behind large centered title -->
-  <ellipse cx="600" cy="140" rx="420" ry="95" fill="#000000" opacity="0.55" filter="url(#soften)"/>
 
   <!-- title text, centered, enlarged and dominant, light fill for max contrast against dark scene -->
   <text x="600" y="152" text-anchor="middle" font-family="Noto Serif CJK JP, serif" font-size="108" font-weight="700" fill="#fafafa" stroke="#000000" stroke-width="1.5" stroke-opacity="0.35">ようこそ</text>
