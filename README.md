@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td width="170" align="center" valign="top">
-      <img width="150" src="https://raw.githubusercontent.com/karan-malik/karan-malik/master/astronaut.gif" alt="astronaut" />
+      <img width="150" src="./graduation-cap.png" alt="graduation cap" />
     </td>
     <td valign="top">
 
@@ -127,3 +127,6 @@ Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turnin
 
 <br>
 
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Footer banner" />
+</p>
