@@ -56,7 +56,7 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 <br clear="right">
 
 ---
-## Statistics
+### Statistics
 
 <p align="center">
   <img
@@ -76,7 +76,8 @@ I'm a developer, designer, and curious builder who enjoys turning ideas into use
 
 <br>
 
-## Pinned Repositories
+---
+### Pinned Repositories
 
 <table align="center" width="100%" cellpadding="6" cellspacing="0">
   <tr>
