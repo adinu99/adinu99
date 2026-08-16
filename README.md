@@ -35,9 +35,9 @@
 
 ## Behind the Code
 
-<img src="./graduation-cap.png" width="305" align="left" style="margin: 4px 24px 4px 0;" alt="graduation cap" />
+<img src="./graduation-cap.png" width="305" align="left" hspace="24" vspace="4" alt="graduation cap" />
 
-Hi! I'm **ADINU WIRA NUGRAHA** 
+### Hi! I'm ADINU WIRA NUGRAHA
 
 a Systems Engineering student, developer, and curious builder. I like taking an idea, breaking it apart, and figuring out how to turn it into something that actually works. Currently, I'm mostly playing around with JavaScript, React, and Bootstrap.
 
