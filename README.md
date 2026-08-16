@@ -33,9 +33,7 @@ a Systems Engineering student, developer, and curious builder. I like taking an 
 
 ## Technologies
 
-## Technologies
-
-<table align="center" width="100%">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="10" style="border:none; border-collapse:collapse;">
   <tr>
     <td align="center" width="20%"><img src="https://img.shields.io/badge/C++-2B2B2B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></td>
     <td align="center" width="20%"><img src="https://img.shields.io/badge/Java-2B2B2B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></td>
@@ -96,7 +94,3 @@ a Systems Engineering student, developer, and curious builder. I like taking an 
 </table>
 
 <br>
-
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="Footer banner" />
-</p>
