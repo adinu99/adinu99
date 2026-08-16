@@ -35,7 +35,7 @@
 
 ## About me
 
-<img src="./graduation-cap.png" width="310" align="left" style="margin: 4px 24px 4px 0;" alt="graduation cap" />
+<img src="./graduation-cap.png" width="305" align="left" style="margin: 4px 24px 4px 0;" alt="graduation cap" />
 
 Hi! I'm **ADINU WIRA NUGRAHA** 
 
