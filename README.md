@@ -16,6 +16,10 @@
 <tr>
 <td valign="top" width="14%">
 
+<img src="https://ui-avatars.com/api/?name=Adinu+Wira+Nugraha&size=160&background=141414&color=FFFFFF&bold=true&font-size=0.33&length=2&rounded=true" width="100%" alt="avatar" />
+
+<br/><br/>
+
 ### NAV
 
 [`HOME`](#hello-im)
