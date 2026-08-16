@@ -35,12 +35,7 @@
 
 ## About me
 
-<table>
-  <tr>
-    <td width="170" align="center" valign="top">
-      <img width="150" src="./graduation-cap.png" alt="graduation cap" />
-    </td>
-    <td valign="top">
+<img src="./graduation-cap.png" width="140" align="left" alt="graduation cap" />
 
 Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turning half-formed ideas into working code — mostly with **JavaScript**, **React**, and **Bootstrap**.
 
@@ -59,9 +54,7 @@ Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turnin
 
 <sub><i>"Simplicity is the soul of efficiency."</i></sub>
 
-  </td>
-  </tr>
-</table>
+<br clear="left">
 
 <br>
 
