@@ -33,17 +33,22 @@
 
 <br>
 
-## 📌 About me
+## About me
 
-<img align="right" width="180" src="https://raw.githubusercontent.com/karan-malik/karan-malik/master/astronaut.gif" alt="astronaut" />
+<table>
+  <tr>
+    <td width="170" align="center" valign="top">
+      <img width="150" src="https://raw.githubusercontent.com/karan-malik/karan-malik/master/astronaut.gif" alt="astronaut" />
+    </td>
+    <td valign="top">
 
 Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turning half-formed ideas into working code — mostly with **JavaScript**, **React**, and **Bootstrap**.
 
-- 🎓 Studying Systems Engineering
-- 💻 Building things with JavaScript, React & Bootstrap
-- 🏆 Competing in **ICPC 2025**
-- ♟️ Off-screen: playing chess
-- 🌱 Currently learning new frameworks
+- Studying Systems Engineering
+- Building things with JavaScript, React & Bootstrap
+- Competing in ICPC 2025
+- Off-screen: playing chess
+- Currently learning new frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Field-Systems%20Engineering-2B2B2B?style=flat-square" alt="Field" />
@@ -52,11 +57,15 @@ Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turnin
   <img src="https://img.shields.io/badge/Currently-Learning%20new%20frameworks-2B2B2B?style=flat-square" alt="Currently" />
 </p>
 
-<p><sub><i>"Simplicity is the soul of efficiency."</i></sub></p>
+<sub><i>"Simplicity is the soul of efficiency."</i></sub>
 
-<br clear="right">
+  </td>
+  </tr>
+</table>
 
-## 🛠️ Technologies
+<br>
+
+## Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-2B2B2B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -82,7 +91,7 @@ Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turnin
 
 <br>
 
-## 📊 Statistics
+## Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adinu99&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=808080&border_color=333333&count_private=true" height="165" alt="GitHub stats" />
@@ -99,7 +108,7 @@ Hai! I'm **Adinu Wira Nugraha**, a Systems Engineering student who enjoys turnin
 
 <br>
 
-## 📌 Pinned Repositories
+## Pinned Repositories
 
 <table align="center" width="100%" cellpadding="6" cellspacing="0">
   <tr>
